@@ -7,9 +7,5 @@ public class helloWorld {
         System.out.println("git Hello4!!!") ;
         System.out.println("git Hello5!!") ;
 
-
-        System.out.println("git Clone Hello2!!!") ;
-        System.out.println("git Clone2 Hello2!!!") ;
-
     }
 }
